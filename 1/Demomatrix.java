@@ -26,6 +26,7 @@ class Demomatrix
               b[i][j]=scan.nextInt();
             }
         }
+        scan.close();
 
         for (int c = 0; c < 3; c++) {                            //calculate the matrix multiplication
             for (int d = 0; d < 3; d++) {
