@@ -5,9 +5,9 @@ class Str{
        s=obj.s;
     }
     
-    Str(String s1)
+    Str(String s)
     {
-            s=s1;
+            this.s=s;
     }
     void show()
     {
