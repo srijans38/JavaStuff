@@ -21,12 +21,12 @@ class Demomain
 
         Str n=new Str("Hello");
         Str a=new Str(n);
-        String l="Second String";
-        String m=l;
+       // String l="Second String";
+       // String m=l;
        
         n.show();
         a.show(); 
-        System.out.println(l);
-        System.out.println(m);
+       // System.out.println(l);
+       // System.out.println(m);
     }
 }
