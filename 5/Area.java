@@ -39,7 +39,7 @@ class Triangle extends Dimension
  void areaTriangle()
  {
     
-     area2=dis*base;
+     area2=(dis*base)/2;
  }
  void displayTrianglearea()
  {
